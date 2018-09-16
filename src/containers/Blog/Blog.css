@@ -1,0 +1,37 @@
+.Blog ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    text-align: center;
+    background:lightblue;
+}
+.Blog #logo{
+    align:left;
+    align-content:left;
+    align-items: left;
+    left:0px;
+    display:inline;
+    width:10rem;
+    height:auto;
+
+}
+.Blog li {
+    display: inline-block;
+    margin: 20px;
+    text-decoration-skip:white;
+}
+
+.Blog a {
+    text-decoration: none;
+    color: black;
+}
+.Blog nav{
+    align:left;
+}
+
+.Blog a:hover,
+.Blog a:active,
+.Blog a.active {
+    color: #fa923f;
+}

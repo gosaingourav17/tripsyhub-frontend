@@ -1,0 +1,33 @@
+.Photo{
+   
+}
+.Photo img{
+width:70%;
+height:auto;
+}
+.Photo .text{
+    text-align:left
+    }
+
+.Photo .bod{
+    display:flex;
+    width:100%;
+    margin:0;
+    align-items:center;
+    justify-content:center;
+    flex-direction: column;
+}
+.Photo progress{
+        align:center
+        }
+
+.Photo .row{
+    width:100%;
+    align: center;
+   
+    justify-content:center;
+}
+.Photo #inner{
+    
+    display: inline-block;
+}
